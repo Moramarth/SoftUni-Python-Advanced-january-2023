@@ -16,3 +16,4 @@ https://judge.softuni.org/
 - [Tuples and Sets](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/tuples_and_sets)
 - [Stacks, Queues, Tuples and Sets exercise](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/stacks_queues_tuples_and_sets_exercise)
 - [Multidimensional lists](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/multidimensional_lists)
+- [Functions advanced](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/functions_advanced)
