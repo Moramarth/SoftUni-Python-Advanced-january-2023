@@ -1,0 +1,16 @@
+.py
+- - - exercise_01_even_lines.py
+- - - exercise_02_line_numbers.py
+- - - exercise_03_file_manipulator.py
+- - - exercise_04_directory_traversal.py
+- - - lab_01_file_opener.py
+- - - lab_02_file_reader.py
+- - - lab_03_file_writer.py
+- - - lab_04_file_deleter.py
+- - - lab_05_word_count.py
+.txt
+- - - numbers.txt
+- - - report.txt
+- - - text.txt
+- - - text_for_task_5.txt
+- - - words.txt

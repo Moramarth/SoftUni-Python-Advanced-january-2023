@@ -19,11 +19,12 @@ def traversal_func(directory, can_search_deeper=True):
 
 
 directory_to_scan = input()
-report_data = dict()
-result = list()
+report_data = dict()  # gets file extensions as keys and lists with all files of the same type as values
+result = list()  # will use later for reformatting as set by the task condition
 
 traversal_func(directory_to_scan)
-report_data = sorted(report_data.items(), key= lambda x: x[0])
+
+report_data = sorted(report_data.items(), key=lambda x: x[0])
 
 for file_type, file_name in report_data:
     result.append(f".{file_type}")
