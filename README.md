@@ -19,3 +19,4 @@ https://judge.softuni.org/
 - [Functions advanced](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/functions_advanced)
 - [Error handling](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/error_handling)
 - [File handling](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/file_handling)
+- [Modules](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/modules)
