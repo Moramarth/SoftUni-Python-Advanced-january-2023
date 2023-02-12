@@ -21,3 +21,4 @@ https://judge.softuni.org/
 - [File handling](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/file_handling)
 - [Workshop](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/workshop) 
 - [Modules](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/modules)
+- [Exam preparation](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/exam_preparation)
