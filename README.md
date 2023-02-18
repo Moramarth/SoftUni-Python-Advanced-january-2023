@@ -36,4 +36,5 @@ https://judge.softuni.org/
   * [Python Advanced Exam - 24 October 2020](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/exam_preparation/24_10_2020)
   * [Python Advanced Retake Exam - 19 August 2020](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/exam_preparation/19_08_2020)
   * [Python Advanced Exam - 27 June 2020](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/exam_preparation/27_06_2020)
+ - [Final exam - Python Advanced Exam - 18 February 2023](https://github.com/Moramarth/SoftUni-Python-Advanced-january-2023/tree/main/final_exam_18_02_2023)
   
