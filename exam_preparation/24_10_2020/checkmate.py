@@ -33,20 +33,17 @@ def position_change(start_position, direction):
     return current_position
 
 
-def capture_test(queen_coordinates):
-    queen_path = list()
+def capture_test(king_coordinates):
 
     for direction in directions:
-        next_step = [queen_coordinates[0], queen_coordinates[1]]
+        next_step = [king_coordinates[0], king_coordinates[1]]
         while True:
             next_step = position_change(next_step, direction)
             if next_step in queens_positions:
+                can_capture.append([next_step[0], next_step[1]])
                 break
             if not 0 <= next_step[0] < board_size or not 0 <= next_step[1] < board_size:
                 break
-            queen_path.append([next_step[0], next_step[1]])
-    if king_position in queen_path:
-        can_capture.append(queen_coordinates)
 
 
 directions = ["up", "down", "left", "right", "top-left", "top-right", "bottom-left", "bottom-right"]
@@ -64,9 +61,7 @@ for row_number in range(board_size):
         elif current_row[j] == "Q":
             queens_positions.append([row_number, j])
 
-
-for queen in queens_positions:
-    capture_test(queen)
+capture_test(king_position)
 
 if can_capture:
     print(*can_capture, sep="\n")
